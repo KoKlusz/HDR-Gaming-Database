@@ -5,6 +5,7 @@ Index:
 
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12)
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
+* [Avowed](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/44)
 * [Avatar: Frontiers of Pandora](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/13)
 * [Call of Duty Black Ops Cold War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/14)
 * [Call of Duty Black Ops 6](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/15)
@@ -39,4 +40,3 @@ Index:
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
-* [Avowed ](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/44)
