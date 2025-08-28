@@ -29,6 +29,7 @@ Index:
 * [Forza Horizon 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/31)
 * [Forza Horizon 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/32)
 * [FBC Firebreak](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/33)
+* [Gears of War Reloaded](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/46)
 * [Gears 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/34)
 * [God of War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/35)
 * [God of War Ragnarök](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/36)
