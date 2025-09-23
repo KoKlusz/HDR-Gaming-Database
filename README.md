@@ -23,6 +23,7 @@ Index:
 * [DOOM The Dark Ages](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/25)
 * [Dragon Age: The Veilguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/26)
 * [Dragon's Dogma 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/27)
+* [DYING LIGHT THE BEAST](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/53)
 * [FINAL FANTASY VII REMAKE INTERGRADE](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/28)
 * [FINAL FANTASY VII REBIRTH](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/29)
 * [FINAL FANTASY XVI](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/30)
@@ -48,4 +49,5 @@ Index:
 * [METAL GEAR SOLID DELTA: SNAKE EATER](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
+* [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
