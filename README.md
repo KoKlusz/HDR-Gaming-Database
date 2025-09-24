@@ -1,5 +1,7 @@
 # HDR-Gaming-Database
-A list of HDR game analyses, common issues plaguing HDR gaming, and possible fixes.
+A list of HDR game analyses, common issues plaguing HDR gaming, and possible fixes. WIP.
+
+#### PLease be aware that infomration I present here are based mostly on the direct visual comparsions and educated guesses, at times it's impossible to correctly deduce the root casue of the problems HDR might have without decompiling the game's code.
 
 Index:
 
