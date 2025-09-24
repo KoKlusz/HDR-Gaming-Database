@@ -3,7 +3,7 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 
 #### Please be aware that the information presented here is based mostly on direct visual comparisons and educated guesses. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.
 
-Index:
+### Index:
 
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12)
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
@@ -53,3 +53,9 @@ Index:
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
+
+### Mods
+
+[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)
+
+[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)
