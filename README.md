@@ -53,8 +53,12 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 * [METAL GEAR SOLID DELTA: SNAKE EATER](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
+* [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
+* [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56)
+* [Red Dead Redemption 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/57)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
+* [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
 ### Mods
 
