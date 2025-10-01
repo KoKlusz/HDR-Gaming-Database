@@ -3,9 +3,11 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 
 #### Please be aware that the information presented here is based mostly on direct visual comparisons and educated guesses. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.
 
-⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.
+#### [HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)
 
 ### Index:
+
+⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.
 
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
