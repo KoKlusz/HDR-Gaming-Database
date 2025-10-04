@@ -14,7 +14,7 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 **⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.**
 <details>
 
-<summary>List:</summary>
+<summary>Click To Expand</summary>
 
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
@@ -70,6 +70,10 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
 </details>
+
+------------------------------------------------------
+
+### [Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s) 
 
 ------------------------------------------------------
 
