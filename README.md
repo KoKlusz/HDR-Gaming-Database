@@ -3,11 +3,17 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 
 #### Please be aware that the information presented here is based mostly on direct visual comparisons and educated guesses. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.
 
-#### [HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)
+------------------------------------------------------
 
-### Index:
+### [HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)
 
-⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.
+------------------------------------------------------
+
+<details>
+
+<summary>Games Index:</summary>
+
+### ⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.
 
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
@@ -62,8 +68,12 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
+</details>
+
+------------------------------------------------------
+
 ### Mods
 
-[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)
+#### [RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)
 
-[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)
+#### [Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)
