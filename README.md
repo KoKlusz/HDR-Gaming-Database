@@ -79,6 +79,6 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 
 ### Mods
 
-#### [RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)
+**[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)**
 
-#### [Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)
+**[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)**
