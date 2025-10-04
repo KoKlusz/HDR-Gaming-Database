@@ -9,11 +9,12 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 
 ------------------------------------------------------
 
+### Games Index
+
+**⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.**
 <details>
 
-<summary>Games Index:</summary>
-
-### ⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.
+<summary>List:</summary>
 
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
