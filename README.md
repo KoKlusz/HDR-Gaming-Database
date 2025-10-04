@@ -1,17 +1,14 @@
 # HDR-Gaming-Database
-A list of HDR game analyses, common issues plaguing HDR gaming, and possible fixes. WIP.
+A database of HDR game analyses, common issues plaguing HDR gaming, and possible fixes. Work In Progress.
 
-#### Please be aware that the information presented here is based mostly on direct visual comparisons and educated guesses. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.
-
-------------------------------------------------------
-
-### [HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)
+**Please be aware that the information presented here is based mostly on direct visual comparisons and educated guesses. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.**
 
 ------------------------------------------------------
 
 ### Games Index
 
 **⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.**
+
 <details>
 
 <summary>Click To Expand</summary>
@@ -72,8 +69,11 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 </details>
 
 ------------------------------------------------------
+### Resources
 
-### [Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s) 
+**[HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)**
+
+**[Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s)**
 
 ------------------------------------------------------
 
@@ -82,3 +82,4 @@ A list of HDR game analyses, common issues plaguing HDR gaming, and possible fix
 **[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)**
 
 **[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)**
+
