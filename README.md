@@ -57,11 +57,18 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Marvels Spider-Man 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/39) ⭐
 * [Mass Effect Legendary Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/40)
 * [METAL GEAR SOLID DELTA: SNAKE EATER](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
+* [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
 * [Red Dead Redemption 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/57)
+* [Resident Evil 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/60)
+* [Resident Evil 3](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/61)
+* [Resident Evil 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/63)
+* [Resident Evil 7 Biohazard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/59)
+* [Resident Evil Village](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/62)
+* [Returnal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/64)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
