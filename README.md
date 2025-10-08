@@ -60,6 +60,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
+* [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
 * [Red Dead Redemption 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/57)
