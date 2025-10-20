@@ -54,6 +54,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Horizon Forbidden West](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/50) ⭐
 * [Indiana Jones and the Great Circle](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/51)
 * [Jusant](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/52)
+* [Keeper](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/70)
 * [Marvel's Guardians of the Galaxy](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/37)
 * [Marvel’s Spider-Man Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
 * [Marvel’s Spider-Man Miles Morales](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
