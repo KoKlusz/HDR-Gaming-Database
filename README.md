@@ -63,6 +63,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [METAL GEAR SOLID DELTA: SNAKE EATER](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
 * [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
+* [NINJA GAIDEN 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
