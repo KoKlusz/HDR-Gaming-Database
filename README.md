@@ -88,6 +88,8 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 
 **[Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s)**
 
+**[HDR Link Libary: List of useful websites, resources, and tools that are related to HDR.](https://www.hdrmods.com/HDR-Link-Library)**
+
 ------------------------------------------------------
 
 ### Mods
