@@ -65,7 +65,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [NINJA GAIDEN 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
-* [Outer Worlds 2, The](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
+* [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
 * [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
@@ -77,6 +77,13 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Resident Evil Village](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/62)
 * [Returnal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/64)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
+* [South of Midnight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/73)
+* [Split Fiction](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/74)
+* [STALKER 2 Heart of Chornobyl](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/75)
+* [STAR WARS Jedi Fallen Order](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/76)
+* [Star Wars Outlaws](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/77)
+* [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78)
+* [The Talos Principle 2, The](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
