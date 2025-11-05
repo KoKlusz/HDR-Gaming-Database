@@ -82,8 +82,8 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [STALKER 2 Heart of Chornobyl](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/75)
 * [STAR WARS Jedi Fallen Order](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/76)
 * [Star Wars Outlaws](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/77)
-* [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78)
-* [The Talos Principle 2, The](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78)
+* [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
+* [The Talos Principle 2, The](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
