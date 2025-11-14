@@ -22,6 +22,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Battlefield 6](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/67)
 * [Call of Duty Black Ops Cold War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/14)
 * [Call of Duty Black Ops 6](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/15) ⭐
+* [Call of Duty Black Ops 7](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/80) ⭐
 * [Call of Duty Modern Warfare (2019)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16) 
 * [Call of Duty Vanguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16)
 * [Call of Duty Modern Warfare II (2022)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
@@ -76,6 +77,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Resident Evil 7 Biohazard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/59)
 * [Resident Evil Village](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/62)
 * [Returnal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/64)
+* [Sekiro](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/79)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [South of Midnight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/73)
 * [Split Fiction](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/74)
