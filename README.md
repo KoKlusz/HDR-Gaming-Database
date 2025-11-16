@@ -83,6 +83,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Split Fiction](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/74)
 * [STALKER 2 Heart of Chornobyl](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/75)
 * [STAR WARS Jedi Fallen Order](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/76)
+* [STAR WARS Jedi Survivor](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/81)
 * [Star Wars Outlaws](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/77)
 * [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
 * [The Talos Principle 2, The](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
