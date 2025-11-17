@@ -78,6 +78,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Resident Evil Village](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/62)
 * [Returnal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/64)
 * [Sekiro](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/79)
+* [SILENT HILL 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/82)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [South of Midnight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/73)
 * [Split Fiction](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/74)
