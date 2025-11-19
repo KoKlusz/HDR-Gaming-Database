@@ -27,8 +27,9 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Call of Duty Vanguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16)
 * [Call of Duty Modern Warfare II (2022)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
 * [Call of Duty Modern Warfare III (2023)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
-* [Control](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/19) ⭐
 * [The Callisto Protocol](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/18)
+* [Control](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/19) ⭐
+* [Cronos The New Dawn](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/84)
 * [Diablo IV](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/23)
 * [Devil May Cry 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/22)
 * [Death Stranding Directors Cut](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/21)
