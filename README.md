@@ -24,27 +24,27 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Call of Duty Black Ops 6](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/15) ⭐
 * [Call of Duty Black Ops 7](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/80) ⭐
 * [Call of Duty Modern Warfare (2019)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16) 
-* [Call of Duty Vanguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16)
 * [Call of Duty Modern Warfare II (2022)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
 * [Call of Duty Modern Warfare III (2023)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
+* [Call of Duty Vanguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16)
 * [The Callisto Protocol](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/18)
 * [Control](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/19) ⭐
 * [Cronos The New Dawn](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/84)
-* [Diablo IV](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/23)
-* [Devil May Cry 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/22)
-* [Death Stranding Directors Cut](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/21)
 * [Dead Space (2023)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/20) ⭐
+* [Death Stranding Directors Cut](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/21)
+* [Devil May Cry 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/22)
+* [Diablo IV](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/23)
 * [DOOM Eternal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/24)
 * [DOOM The Dark Ages](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/25)
 * [Dragon Age: The Veilguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/26)
 * [Dragon's Dogma 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/27)
 * [DYING LIGHT THE BEAST](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/53)
+* [FBC Firebreak](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/33) ⭐
 * [FINAL FANTASY VII REMAKE INTERGRADE](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/28) ⭐
 * [FINAL FANTASY VII REBIRTH](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/29)
 * [FINAL FANTASY XVI](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/30) ⭐
 * [Forza Horizon 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/31)
 * [Forza Horizon 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/32)
-* [FBC Firebreak](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/33) ⭐
 * [Gears of War Reloaded](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/46)
 * [Gears 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/34)
 * [God of War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/35)
@@ -57,6 +57,8 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Indiana Jones and the Great Circle](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/51)
 * [Jusant](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/52)
 * [Keeper](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/70)
+* [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
+* [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [Marvel's Guardians of the Galaxy](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/37)
 * [Marvel’s Spider-Man Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
 * [Marvel’s Spider-Man Miles Morales](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
@@ -68,8 +70,6 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [NINJA GAIDEN 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
-* [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
-* [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
 * [Red Dead Redemption 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/57)
 * [Resident Evil 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/60)
@@ -79,6 +79,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Resident Evil Village](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/62)
 * [Returnal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/64)
 * [Sekiro](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/79)
+* [Shadow of the Tomb Raider](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/85)
 * [SILENT HILL 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/82)
 * [SILENT HILL f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [South of Midnight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/73)
@@ -89,7 +90,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Star Wars Outlaws](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/77)
 * [Still Wakes the Deep](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/83)
 * [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
-* [The Talos Principle 2, The](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
+* [The Talos Principle 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
