@@ -89,6 +89,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [STAR WARS Jedi Survivor](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/81)
 * [Star Wars Outlaws](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/77)
 * [Still Wakes the Deep](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/83)
+* [Suicide Squad Kill the Justice League](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/86)
 * [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
 * [The Talos Principle 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
