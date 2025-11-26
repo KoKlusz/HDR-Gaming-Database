@@ -67,6 +67,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Marvels Spider-Man 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/39)
 * [Mass Effect Legendary Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/40)
 * [METAL GEAR SOLID DELTA: SNAKE EATER](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
+* [Metro Exodus Enhanced Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/90)
 * [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [NINJA GAIDEN 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
