@@ -69,6 +69,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [METAL GEAR SOLID DELTA: SNAKE EATER](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
 * [Metro Exodus Enhanced Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/90)
 * [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
+* [Need for Speed Unbound](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/91)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [NINJA GAIDEN 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
