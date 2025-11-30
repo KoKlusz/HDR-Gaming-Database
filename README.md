@@ -53,6 +53,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [God of War Ragnarök](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/36)
 * [Hellblade Senua's Sacrifice](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/47)
 * [Senua’s Saga Hellblade II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/48) ⭐
+* [HITMAN World of Assassination](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/92)
 * [Horizon Zero Dawn Complete Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/49)
 * [Horizon Zero Dawn Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/50) ⭐
 * [Horizon Forbidden West](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/50) ⭐
