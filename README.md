@@ -99,6 +99,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Suicide Squad Kill the Justice League](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/86)
 * [The Talos Principle: Reawakened](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
 * [The Talos Principle 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78) ⭐
+* [TEKKEN 8](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/95)
 * [Tony Hawk's Pro Skater 3 + 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/43)
 * [Trails in the Sky 1st Chapter](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/58)
 
