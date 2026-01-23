@@ -26,6 +26,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Call of Duty Modern Warfare (2019)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16) 
 * [Call of Duty Modern Warfare II (2022)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
 * [Call of Duty Modern Warfare III (2023)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/17) ⭐
+* [Call of Duty WWII](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/101)
 * [Call of Duty Vanguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16)
 * [The Callisto Protocol](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/18)
 * [Control](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/19) ⭐
