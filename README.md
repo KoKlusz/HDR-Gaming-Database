@@ -16,7 +16,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
 * [Avowed](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/44)
-* [Avatar: Frontiers of Pandora](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/13)
+* [Avatar: Frontiers of Pandora](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/102)
 * [Battlefield 1](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/68)
 * [Battlefield V](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/69)
 * [Battlefield 6](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/67)
