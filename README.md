@@ -31,6 +31,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [The Callisto Protocol](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/18)
 * [Control](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/19) ⭐
 * [Cronos The New Dawn](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/84)
+* [Crysis Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/103)
 * [Days Gone](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/88)
 * [Dead Space (2023)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/20) ⭐
 * [DEATHLOOP](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/89)
