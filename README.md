@@ -37,6 +37,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Dead Space (2023)](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/20) ⭐
 * [DEATHLOOP](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/89)
 * [Death Stranding Directors Cut](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/21)
+* [Detroit Become Human](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/105)
 * [Devil May Cry 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/22)
 * [Diablo IV](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/23)
 * [DOOM Eternal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/24)
