@@ -41,6 +41,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Detroit Become Human](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/105)
 * [Devil May Cry 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/22)
 * [Diablo IV](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/23)
+* [Disco Elysium](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/107)
 * [DOOM Eternal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/24)
 * [DOOM The Dark Ages](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/25)
 * [Dragon Age: The Veilguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/26)
