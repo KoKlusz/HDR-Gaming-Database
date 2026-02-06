@@ -47,6 +47,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Dragon Age: The Veilguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/26)
 * [Dragon's Dogma 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/27)
 * [DYING LIGHT THE BEAST](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/53)
+* [ELDEN RING](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/108)
 * [FBC Firebreak](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/33) ⭐
 * [FINAL FANTASY VII REMAKE INTERGRADE](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/28) ⭐
 * [FINAL FANTASY VII REBIRTH](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/29)
