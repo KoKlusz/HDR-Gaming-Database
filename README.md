@@ -82,6 +82,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Need for Speed Unbound](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/91)
 * [NINJA GAIDEN 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [NINJA GAIDEN 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
+* [Nioh 3](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/109)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
