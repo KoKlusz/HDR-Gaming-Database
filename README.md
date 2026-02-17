@@ -56,6 +56,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Forza Horizon 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/32)
 * [Gears of War Reloaded](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/46)
 * [Gears 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/34)
+* [Gears Tactics](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/110)
 * [God of War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/35)
 * [God of War Ragnarök](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/36)
 * [Hellblade Senua's Sacrifice](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/47)
