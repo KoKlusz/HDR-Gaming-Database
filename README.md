@@ -66,6 +66,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Horizon Zero Dawn Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/50) ⭐
 * [Horizon Forbidden West](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/50) ⭐
 * [Indiana Jones and the Great Circle](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/51)
+* [Injustice 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/111)
 * [Jusant](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/52)
 * [Keeper](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/70)
 * [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
