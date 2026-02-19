@@ -72,6 +72,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [KINGDOM HEARTS III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
 * [The Last of Us Part I](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/98) ⭐
 * [The Last of Us Part II Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/99) ⭐
+* [Life is Strange True Colors](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/112)
 * [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [Marvel's Guardians of the Galaxy](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/37)
 * [Marvel’s Spider-Man Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
