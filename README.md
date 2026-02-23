@@ -88,6 +88,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Nioh 3](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/109)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
+* [PRAGMATA ](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/97)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
 * [Red Dead Redemption](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/87)
 * [Red Dead Redemption 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/57)
