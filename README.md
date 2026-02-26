@@ -13,6 +13,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 
 <summary>Click To Expand</summary>
 
+* [Alan Wake](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/114) ⭐
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
 * [Avowed](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/44)
