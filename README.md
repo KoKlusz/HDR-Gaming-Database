@@ -99,6 +99,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Resident Evil 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/63)
 * [Resident Evil 7 Biohazard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/59)
 * [Resident Evil Village](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/62)
+* [Resident Evil Requiem](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/115)
 * [Returnal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/64)
 * [Sekiro](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/79)
 * [Shadow of the Tomb Raider](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/85)
