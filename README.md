@@ -76,6 +76,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Life is Strange: True Colors](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/112)
 * [Life Is Strange: Double Exposure](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/113)
 * [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
+* [Marathon](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/116)
 * [Marvel's Guardians of the Galaxy](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/37)
 * [Marvel’s Spider-Man Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
 * [Marvel’s Spider-Man Miles Morales](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
