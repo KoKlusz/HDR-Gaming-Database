@@ -85,6 +85,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Metal Gear Solid Delta: Snake Eater](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
 * [Metro Exodus Enhanced Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/90)
 * [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
+* [Mortal Kombat 11](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/117)
 * [Need for Speed Unbound](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/91)
 * [Ninja Gaiden 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ninja Gaiden 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
@@ -127,6 +128,8 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 
 ------------------------------------------------------
 ### Resources
+
+**[About HDR paper white / HDR reference white level](https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/)**
 
 **[HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)**
 
