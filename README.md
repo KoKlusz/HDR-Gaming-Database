@@ -86,6 +86,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Metro Exodus Enhanced Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/90)
 * [Monster Hunter Wilds](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/65)
 * [Mortal Kombat 11](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/117)
+* [Mortal Kombat 1](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/118)
 * [Need for Speed Unbound](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/91)
 * [Ninja Gaiden 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ninja Gaiden 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
