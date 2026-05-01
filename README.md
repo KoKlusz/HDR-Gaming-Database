@@ -129,6 +129,10 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 </details>
 
 ------------------------------------------------------
+
+### [Simple HDR Fixes](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes)
+
+------------------------------------------------------
 ### Resources
 
 **[About HDR paper white / HDR reference white level](https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/)**
