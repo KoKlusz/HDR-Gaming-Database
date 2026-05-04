@@ -7,6 +7,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 
 ### Games Index
 
+> [!IMPORTANT] 
 **⭐ - Mostly good/great implementation with little to no issues, or those that are present do not affect the experience too much.**
 
 <details>
