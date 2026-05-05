@@ -90,6 +90,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Mortal Kombat 11](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/117)
 * [Mortal Kombat 1](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/118)
 * [Need for Speed Unbound](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/91)
+* [NieR: Automata](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/120)
 * [Ninja Gaiden 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ninja Gaiden 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
 * [Nioh 3](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/109)
