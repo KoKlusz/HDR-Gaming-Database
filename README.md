@@ -98,7 +98,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
 * [Pragmata](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/97)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
-* [Reanimal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/121)
+* [Reanimal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/121) ⭐
 * [Red Dead Redemption](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/87)
 * [Red Dead Redemption 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/57)
 * [Resident Evil 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/60)
