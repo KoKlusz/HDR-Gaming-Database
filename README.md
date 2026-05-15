@@ -58,6 +58,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Final Fantasy XVI](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/30) ⭐
 * [Forza Horizon 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/31)
 * [Forza Horizon 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/32)
+* [Forza Horizon 6](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/123)
 * [Gears of War Reloaded](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/46)
 * [Gears 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/34)
 * [Gears Tactics](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/110)
