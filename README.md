@@ -75,13 +75,13 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Injustice 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/111)
 * [Jusant](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/52)
 * [Keeper](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/70)
+* [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [Kingdom Hearts III + Re Mind](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/55)
 * [The Last of Us Part I](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/98) ⭐
 * [The Last of Us Part II Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/99) ⭐
 * [Lego Batman: Legacy of the Dark Knight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/127)
 * [Life is Strange: True Colors](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/112)
 * [Life Is Strange: Double Exposure](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/113)
-* [Kingdom Come Deliverance II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/66)
 * [Mafia: The Old Country](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/126) ⭐
 * [Marathon](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/116)
 * [Marvel's Guardians of the Galaxy](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/37)
@@ -99,6 +99,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Ninja Gaiden 2 Black](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/41)
 * [Ninja Gaiden 4](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/71)
 * [Nioh 3](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/109)
+* [Onimusha Way of the Sword](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/128)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
 * [Pragmata](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/97)
