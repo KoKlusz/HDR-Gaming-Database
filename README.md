@@ -64,6 +64,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Gears of War Reloaded](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/46)
 * [Gears 5](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/34)
 * [Gears Tactics](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/110)
+* [Gears of War E-Day](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/133)
 * [Ghost of Tsushima Director's Cut](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/130)
 * [God of War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/35)
 * [God of War Ragnarök](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/36)
