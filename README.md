@@ -17,6 +17,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Alan Wake Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/114) ⭐
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [A Plague Tale: Requiem](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/135)
+* [Resonance: A Plague Tale Legacy](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/136)
 * [Assassin's Creed Shadows](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/11)
 * [Assassin's Creed: Black Flag Resynced](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/131)
 * [Avowed](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/44)
