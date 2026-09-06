@@ -133,6 +133,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Star Wars Jedi: Fallen Order](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/76)
 * [Star Wars Jedi: Survivor](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/81)
 * [Star Wars Outlaws](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/77)
+* [Star Wars: Zero Company](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/137)
 * [Stellar Blade](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/93)
 * [Still Wakes the Deep](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/83)
 * [Suicide Squad Kill the Justice League](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/86)
