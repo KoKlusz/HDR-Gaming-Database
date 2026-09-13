@@ -71,9 +71,10 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Ghost of Tsushima Director's Cut](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/130)
 * [God of War](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/35)
 * [God of War Ragnarök](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/36)
+* [Halloween: The Game](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/138)
+* [Halo Campaign Evolved](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/132)
 * [Hellblade Senua's Sacrifice](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/47)
 * [Senua’s Saga Hellblade II](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/48) ⭐
-* [Halo Campaign Evolved](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/132)
 * [High on Life 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/129)
 * [Hitman: World of Assassination](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/92)
 * [Horizon Zero Dawn Complete Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/49)
