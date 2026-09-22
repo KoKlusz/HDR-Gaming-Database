@@ -111,6 +111,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Onimusha Way of the Sword](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/128)
 * [Ori and the Will of the Wisps](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/42)
 * [The Outer Worlds 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/72)
+* [Overwatch](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/139)
 * [Pragmata](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/97)
 * [Ratchet & Clank Rift Apart](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/56) ⭐
 * [Reanimal](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/121) ⭐
