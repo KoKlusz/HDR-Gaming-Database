@@ -97,6 +97,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Marvel’s Spider-Man Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
 * [Marvel’s Spider-Man Miles Morales](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/38)
 * [Marvels Spider-Man 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/39)
+* [Marvel's Wolverine](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/140)
 * [Mass Effect Legendary Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/40)
 * [Metal Gear Solid Delta: Snake Eater](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/45)
 * [Metro Exodus Enhanced Edition](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/90)
