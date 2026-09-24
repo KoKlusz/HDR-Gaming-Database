@@ -36,6 +36,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Call of Duty Vanguard](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/16)
 * [The Callisto Protocol](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/18)
 * [Control](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/19) ⭐
+* [Control Resonant](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/142)
 * [The Crew Motorfest](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/122)
 * [Cronos The New Dawn](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/84)
 * [Crysis Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/103)
