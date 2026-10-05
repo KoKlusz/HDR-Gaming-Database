@@ -14,6 +14,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 
 <summary>Click To Expand</summary>
 
+* [007 First Light](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/144)
 * [Alan Wake Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/114) ⭐
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [A Plague Tale: Requiem](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/135)
