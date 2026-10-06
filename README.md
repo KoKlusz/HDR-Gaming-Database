@@ -14,7 +14,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 
 <summary>Click To Expand</summary>
 
-* [007 First Light](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/144)
+* [007 First Light](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/144) ⭐
 * [Alan Wake Remastered](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/114) ⭐
 * [Alan Wake 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/12) ⭐
 * [A Plague Tale: Requiem](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/135)
@@ -133,7 +133,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Silent Hill 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/82)
 * [Silent Hill f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [Silent Hill: Townfall](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/141)
-* [The Sinking City 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/145)
+* [The Sinking City 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/145) ⭐
 * [South of Midnight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/73)
 * [Split Fiction](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/74)
 * [STALKER 2: Heart of Chornobyl](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/75)
