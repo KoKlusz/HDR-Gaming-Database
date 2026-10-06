@@ -133,6 +133,7 @@ A database of HDR game analyses, common issues plaguing HDR gaming, and possible
 * [Silent Hill 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/82)
 * [Silent Hill f](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/54)
 * [Silent Hill: Townfall](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/141)
+* [The Sinking City 2](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/145)
 * [South of Midnight](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/73)
 * [Split Fiction](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/74)
 * [STALKER 2: Heart of Chornobyl](https://github.com/KoKlusz/HDR-Gaming-Database/discussions/75)
