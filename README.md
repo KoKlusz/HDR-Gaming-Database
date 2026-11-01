@@ -4,11 +4,6 @@
 
 **A database of HDR game analyses, common issues plaguing HDR gaming, and possible fixes.**
 
-<a href="#games-index">Games Index</a> •
-<a href="#simple-hdr-fixes">Simple HDR Fixes</a> •
-<a href="#resources">Resources</a> •
-<a href="#mods">Mods</a>
-
 </div>
 
 > [!WARNING]
