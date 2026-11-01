@@ -169,18 +169,18 @@
 
 ## Resources
 
-**[About HDR paper white / HDR reference white level](https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/)**
+- **[About HDR paper white / HDR reference white level](https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/)**
 
-**[HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)**
+- **[HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)**
 
-**[Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s)**
+- **[Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s)**
 
-**[HDR Link Libary: List of useful websites, resources, and tools that are related to HDR.](https://www.hdrmods.com/HDR-Link-Library)**
+- **[HDR Link Libary: List of useful websites, resources, and tools that are related to HDR.](https://www.hdrmods.com/HDR-Link-Library)**
 
 
 ## Mods
 
-**[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)**
+- **[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)**
 
-**[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)**
+- **[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)**
 
