@@ -176,7 +176,6 @@
 <tr>
 <td>
 <a href="https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes"><b>Simple HDR Fixes</b></a><br>
-<sub>Quick fixes for common HDR problems — no mods required.</sub>
 </td>
 </tr>
 </table>
@@ -189,17 +188,14 @@
 <tr>
 <td width="50%" valign="top">
 <a href="https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/"><b>About HDR paper white / reference white level</b></a><br>
-<sub>r/HDR_Den</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/"><b>HDR: The Definitive ELI5 Guide</b></a><br>
-<sub>r/HDR_Den</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <a href="https://youtu.be/BiMkj-IFg5s"><b>Step-by-Step Guide: How to Fix HDR on PC</b></a><br>
-<sub>YouTube</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://www.hdrmods.com/HDR-Link-Library"><b>HDR Link Library</b></a><br>
@@ -216,11 +212,9 @@
 <tr>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/clshortfuse/renodx/wiki/Mods"><b>RenoDX</b></a><br>
-<sub>Mods list</sub>
 </td>
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/Filoppi/Luma-Framework/wiki/Mods-List"><b>Luma Framework</b></a><br>
-<sub>Mods list</sub>
 </td>
 </tr>
 </table>
