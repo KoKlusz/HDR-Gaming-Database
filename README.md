@@ -170,51 +170,22 @@
 
 <br>
 
-## Simple HDR Fixes
-
-<table>
-<tr>
-<td>
-<a href="https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes"><b>Simple HDR Fixes</b></a><br>
-</td>
-</tr>
-</table>
-
-<br>
+## [Simple HDR Fixes](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes)
 
 ## Resources
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/"><b>About HDR paper white / reference white level</b></a><br>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/"><b>HDR: The Definitive ELI5 Guide</b></a><br>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://youtu.be/BiMkj-IFg5s"><b>Step-by-Step Guide: How to Fix HDR on PC</b></a><br>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.hdrmods.com/HDR-Link-Library"><b>HDR Link Library</b></a><br>
-<sub>Useful websites, resources, and tools related to HDR</sub>
-</td>
-</tr>
-</table>
+**[About HDR paper white / HDR reference white level](https://www.reddit.com/r/HDR_Den/comments/1rwvd20/about_hdr_paper_white_hdr_reference_white_level/)**
 
-<br>
+**[HDR: The Definitive ELI5 Guide](https://www.reddit.com/r/HDR_Den/comments/1nvmchr/hdr_the_definitive_eli5_guide/)**
+
+**[Step-by-Step Guide: How to Fix HDR on PC](https://youtu.be/BiMkj-IFg5s)**
+
+**[HDR Link Libary: List of useful websites, resources, and tools that are related to HDR.](https://www.hdrmods.com/HDR-Link-Library)**
+
 
 ## Mods
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/clshortfuse/renodx/wiki/Mods"><b>RenoDX</b></a><br>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="https://github.com/Filoppi/Luma-Framework/wiki/Mods-List"><b>Luma Framework</b></a><br>
-</td>
-</tr>
-</table>
+**[RenoDX mods list](https://github.com/clshortfuse/renodx/wiki/Mods)**
+
+**[Luma-Framework mods list](https://github.com/Filoppi/Luma-Framework/wiki/Mods-List)**
+
