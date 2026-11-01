@@ -12,7 +12,7 @@
 </div>
 
 > [!WARNING]
-> The information presented here is based mostly on **direct visual comparisons and educated guesses**. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.
+> The information presented here is based mostly on direct visual comparisons and educated guesses. At times it's impossible to correctly deduce the root cause of the problems HDR might have without decompiling the game's code.
 
 <br>
 
