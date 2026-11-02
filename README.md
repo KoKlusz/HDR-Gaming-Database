@@ -13,7 +13,7 @@
 
 ## Games Index
 
-> [!TIP]
+> [!NOTE]
 > **⭐ = Mostly good/great implementation** with little to no issues, or those that are present do not affect the experience too much.
 
 <details>
@@ -165,7 +165,15 @@
 
 <br>
 
-## [Simple HDR Fixes](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes)
+## Simple HDR Fixes
+
+- **[Gamma mismatch fix](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes#gamma-mismatch-fix)**
+
+- **[Uncapped peak brightness fix](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes#uncapped-peak-brightness-fix)**
+
+- **[Screen brightness (paperwhite) control](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes#screen-brightness-paperwhite-control)**
+
+- **[Exclusive Fullscreen / NVAPI fix](https://github.com/KoKlusz/HDR-Gaming-Database/wiki/Simple-HDR-Fixes#exclusive-fullscreen--nvapi-fix)**
 
 ## Resources
 
