@@ -17,7 +17,8 @@
 > **⭐ = Mostly good/great implementation** with little to no issues, or those that are present do not affect the experience too much.
 
 <details>
-<summary><b>Click to expand the full list </b></summary>
+<summary><kbd> <b>Click to expand the full list</b> </kbd></summary>
+<br>
 <br>
 
 <table>
