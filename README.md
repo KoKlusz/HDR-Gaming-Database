@@ -152,6 +152,7 @@
 <tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/93">Stellar Blade</a></td><td align="center"></td></tr>
 <tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/83">Still Wakes the Deep</a></td><td align="center"></td></tr>
 <tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/86">Suicide Squad Kill the Justice League</a></td><td align="center"></td></tr>
+<tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/146">The Ascent</a></td><td align="center">⭐</td></tr>
 <tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78">The Talos Principle: Reawakened</a></td><td align="center">⭐</td></tr>
 <tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/78">The Talos Principle 2</a></td><td align="center">⭐</td></tr>
 <tr><td><a href="https://github.com/KoKlusz/HDR-Gaming-Database/discussions/95">Tekken 8</a></td><td align="center"></td></tr>
